@@ -1,0 +1,13 @@
+{
+	"mail_server_config": {
+		"domain": "smtp.gmail.com.",		
+		"port": 465,
+		"mail_suffix": "@gmail.com"
+	},
+
+	"user_credentials": {
+		"username": "rivernate.at",
+		"password": "rzazdazvire106",
+		"mail_address": "rivernate.at"
+	}
+}

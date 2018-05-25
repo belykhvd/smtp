@@ -1,0 +1,6 @@
+{
+	"recipients": ["rivernate.at@gmail.com"],
+	"subject": "Сейчас вылетит птичка",
+	"letter_path": "test_letter.txt",
+	"attachment_paths": ["1.jpg","ta.txt"]
+}
